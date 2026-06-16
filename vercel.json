@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "public": true,
   "builds": [
     {
       "src": "public/index.html",
@@ -13,4 +12,5 @@
       "dest": "/public/index.html"
     }
   ]
+}
 }
